@@ -12,5 +12,5 @@ fun main() {
     var ch: Char = 'a';
     println("Hello $name!");
     var any_var: Any = 123;
-
+    var a = 1;
 }
