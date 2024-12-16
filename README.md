@@ -32,7 +32,8 @@ Instructions:
 Task 3
 Using switch Statement
 
-Write a Kotlin program that uses a switch statement to categorize a person’s life stage based on their age. Use the following conditions:
+Write a Kotlin program that uses a switch statement to categorize a person’s life stage based on their age. 
+Use the following conditions:
 o	If the age is between 0 and 5 (inclusive), print "You are a toddler."
 o	If the age is between 6 and 12 (inclusive), print "You are a child."
 o	If the age is between 13 and 17 (inclusive), print "You are a teenager."
