@@ -1,8 +1,5 @@
 package Assignment2
 
-// Псевдоним типов
-typealias Name = String
-
 fun main() {
     var age: Int = 19;
     var height: Double = 185.4;
