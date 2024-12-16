@@ -12,8 +12,8 @@ fun main() {
         println("You are a student, but not adult.");
     } else if (age > 18 && !isStudent) {
         println("You are an adult, but not student");
-    } else if (age < 18 && !isStudent) {
-        println("You are not an adult and not a student");
+    } else if (age < 18 || !isStudent) {
+        println("You are not an adult");
     } else {
         println("Invalid data");
     }
