@@ -18,4 +18,5 @@ fun main() {
     var f: String? = null;
     // Arrays
     var array_of_num: Array<Int> = arrayOf(1,2,3,4);
+    println(ch);
 }
